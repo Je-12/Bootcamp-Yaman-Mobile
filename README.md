@@ -5,4 +5,5 @@
   * MRR (Matriz de rastreabilidade de requisitos).
   * BDD dos Casos de Teste (Behavior Driven Development).
   * Scrip de Automação (Linguagem - Java)
+  * Videos para evidências
  
